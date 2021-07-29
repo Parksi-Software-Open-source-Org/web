@@ -24,5 +24,13 @@ pip install -r requirements.txt
 python3 web.py
 ```
 
-### 演示
+![](https://z3.ax1x.com/2021/07/29/Wq379J.png)
+
+### 二进制文件
+
+仅用于Windows
+
+蓝奏云：https://parksi.lanzoui.com/iwJz8ry4bef
+
+开源地址：https://github.com/Parksi-Software-Open-source-Org/real-url-server
 
